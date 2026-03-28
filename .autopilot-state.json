@@ -1,0 +1,13 @@
+{
+  "pid": 8768,
+  "startedAt": "2026-03-28T20:50:06.875Z",
+  "branch": null,
+  "isProtected": false,
+  "status": "watching",
+  "lastCommit": null,
+  "lastPush": null,
+  "queueLength": 0,
+  "conflicts": false,
+  "watchPath": "C:\\Users\\Prais\\projects\\autopilot-cli\\test-repo-sync",
+  "uptime": 5
+}
