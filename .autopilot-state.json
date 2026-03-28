@@ -1,6 +1,6 @@
 {
-  "pid": 24092,
-  "startedAt": "2026-03-28T21:01:49.334Z",
+  "pid": 19200,
+  "startedAt": "2026-03-28T21:34:49.743Z",
   "branch": "master",
   "isProtected": true,
   "status": "watching",
@@ -9,5 +9,5 @@
   "queueLength": 0,
   "conflicts": false,
   "watchPath": "C:\\Users\\Prais\\projects\\autopilot-cli\\test-repo-sync",
-  "uptime": 5
+  "uptime": 10
 }
