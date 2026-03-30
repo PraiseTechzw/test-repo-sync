@@ -9,3 +9,8 @@
 {"timestamp":"2026-03-28T21:23:23.893Z","type":"FOCUS_SESSION_END","totalActiveMs":0,"durationMs":10168}
 {"timestamp":"2026-03-28T21:29:01.961Z","type":"FOCUS_SESSION_END","totalActiveMs":0,"durationMs":10219}
 {"timestamp":"2026-03-28T21:34:59.914Z","type":"FOCUS_SESSION_END","totalActiveMs":0,"durationMs":10172}
+{"timestamp":"2026-03-28T21:40:27.096Z","type":"FOCUS_SESSION_END","totalActiveMs":0,"durationMs":10236}
+{"timestamp":"2026-03-28T21:50:40.031Z","type":"FOCUS_SESSION_END","totalActiveMs":0,"durationMs":10585}
+{"timestamp":"2026-03-28T21:56:18.443Z","type":"FOCUS_SESSION_END","totalActiveMs":0,"durationMs":11002}
+{"timestamp":"2026-03-28T22:04:14.593Z","type":"FOCUS_SESSION_END","totalActiveMs":0,"durationMs":10175}
+{"timestamp":"2026-03-30T18:35:09.440Z","type":"FOCUS_SESSION_END","totalActiveMs":0,"durationMs":10386}
